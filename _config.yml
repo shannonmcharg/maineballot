@@ -121,11 +121,14 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/shannonmcharg"
 
+# Collections
+collections:
+  ballot-measures:
+    output: true
+    permalink: /:collection/:path/
 
 # Site Footer
 footer:
-
-
 
 # Reading Files
 include:
