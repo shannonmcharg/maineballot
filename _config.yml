@@ -123,7 +123,7 @@ author:
 
 # Collections
 collections:
-  ballot-measures:
+  questions:
     output: true
     permalink: /:collection/:path/
 
